@@ -1,0 +1,13 @@
+# Credenciais
+.env
+
+# Dados brutos (baixar via Kaggle)
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
